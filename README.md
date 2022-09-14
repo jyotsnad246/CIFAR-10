@@ -1,1 +1,1 @@
-# Malaria-Detection
+# CIFAR-10
